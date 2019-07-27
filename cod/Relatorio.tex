@@ -1,0 +1,196 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{subfig}
+\usepackage{indentfirst}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[left=2cm,right=2cm,top=2.0cm,bottom=2cm]{geometry}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\begin{figure}
+%\includegraphics[width=0.5\textwidth]{logoicex.png}
+%\end{figure}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{Física Experimental II \\ Relatório Oscilação}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\author{Davidson de Faria, Eliel Leandro, Mariano E. Chaves, Rafael S. Pereira \\  ICEx - UFF \\ \\ Prof. Dr. Luiz Telmo}
+\maketitle
+\newpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Objetivos}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Este relatório tem como objetivo a descrição e análise de experimentos de Física. Temos como foco aqui, a determinação indireta do valor da constante elástica de duas molas diferentes, veremos uma descrição mais detalhada do experimento na \textbf{Seção 3}.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Fundamentos Teóricos}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+	As oscilações são encotradas em todos os campos da física.Exemplos de sistemas mecânicos vibratórios incluem pêndulos, diapasões, cordas de instrumentos musicais e um sistema constituído por uma massa supensa verticalmenete por uma mola.
+
+
+  Hook enunciou sua Lei, $ \vec{F}=-k(\textbf{x}-\textbf{x}_o)$, sob a forma de um postulado, segue o a forma do enunciado: a força de reação que uma mola aplica sobre um objeto é diretamente proporcional ai inverso aditivo da diferença entre a distancia do ponto de equilíbrio ao ponto de deformação.
+
+
+  Mas, sabemos que essa Lei não é tão geral assim, é valida apenas para pequenos deslocamento, pois essa equação deriva da expanção de Taylor de um potencial $\textbf{V}(x)$. Ou seja, é apenas um aproximação para casos em que o delocamento potêncial tem baixa amplitude.
+\\
+
+  Suponhamos então um objeto pendurado por uma mola, onde a mesma atuara no objeto com uma força na direção do campo gravitacional, podendo variar em sentido. Teremos então a seguinte equação:
+
+$$\sum \vec{F}=-k\vec{z}-mg\textbf{k}=\frac{d^2x}{dt^2}m$$
+
+Onde k é a constante elástica, $\vec{z}$ é o vetor posição tomando como base o vetor unitário em direção ao centro da terra , além disso pegamos como origem o ponto de equilíbrio da mola-objeto, $m$ é a massa do objeto em questão e $g$ a aceleração.
+A solução dessa equação diferencial na forma x(t), nos dará:
+
+$$x(t)=A\cos(\sqrt{\frac{k}{m}}t+\phi)$$
+
+Onde $w=\sqrt{\frac{k}{m}}$, onde $w$ é a frequência angular, e $\phi$ é chamado coeficiente de fase da oscilação. Mas $w=\frac{2\pi}{T}$, onde $T$ é o periodo da oscilação, então $\sqrt{\frac{k}{m}}=\frac{2\pi}{T}$, e dai tiramos que: $ m=\frac{k}{4\pi^2}T^2$
+
+O coeficiente angular, $\alpha$, é dado em função de dois pontos do gráfico e este é utilizado para obter a constante de cada mola através da fórmula:
+\begin{equation}
+k=4\pi^2\alpha
+\end{equation}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Material e Esquema}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\textbf{1ª Parte}
+\begin{itemize}
+\item Sensor de força Pasco - modelo PS2104 - fixado ao Tripe Universal Cipede
+\item Interface Xplorer GLX Pasco - modelo PS2002
+\item Molas de tamanhos diferentes
+\item Cojunto de massas com gancho (1g até 100g)
+\item Balança Marte modelo AS1000C - Erro : $\pm 0,1$g
+%\begin{figure}[!htb]
+%\centering
+%\subfloat[Sensor]{
+%\includegraphics[width=0.25\textwidth]{Sensor.jpg}
+%}
+%\subfloat[Interface]{
+%\includegraphics[width=0.25\textwidth]{Interface.jpg}
+%}
+%\subfloat[Molas]{
+%\includegraphics[width=0.25\textwidth]{Molas.jpg}
+%}
+%\end{figure}
+%\begin{figure}[!htb]
+%\centering
+%\subfloat[Massas]{
+%\includegraphics[width=0.25\textwidth]{Massas.jpg}
+%}
+%\subfloat[Balança]{
+%\includegraphics[width=0.25\textwidth]{Balanca.jpg}
+%}
+%\end{figure}
+\end{itemize}
+
+\newpage
+
+\textbf{Esquema do experimento}\\
+    O experimento foi realizado da seguinte maneira, dado um conjunto de objetos com massa bem determinada os penduramos em um sensor de forças usando uma mola. Em seguida deslocamos o objeto a uma distância qualquer em relação a de equilíbrio, ao soltarmos o objeto, foi iniciada a oscilação onde pegávamos no GLX o período da oscilação.
+    \\
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Resultados}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+O dados obtidos pela GLX foram analizados para que o período tivesse o menor erro possível.\\
+
+\subsection{Mola Pequena}
+Da equação (1) obtemos que a constante elástica da mola pequena é de $k=6854.89 N/m$.
+    \begin{center}
+    \begin{tabular}{|c|c|c|c|}
+    \hline
+    n & Massa - m(g) & Período - T(s) & Período ao quadrado - $T^2(s^2)$  \cr
+    \hline
+    1 & (50$\pm$1)  & (0.56$\pm$0.04) & (0.31$\pm$0.04)  \cr
+    \hline
+    2 & (75$\pm$5)  & (0.64$\pm$0.04) & (0.41$\pm$0.05)  \cr
+    \hline
+    3 & (100$\pm$2) & (0.72$\pm$0.04) & (0.52$\pm$0.06) \cr
+    \hline
+    4 & (125$\pm$4) & (0.82$\pm$0.04) & (0.67$\pm$0.07)  \cr
+    \hline
+    5 & (150$\pm$2) & (0.90$\pm$0.04) & (0.81$\pm$0.07)  \cr
+    \hline
+    6 & (175$\pm$4) & (1.00$\pm$0.04) & (1.00$\pm$0.08)  \cr
+    \hline
+    7 & (200$\pm$3) & (1.10$\pm$0.04) & (1.12$\pm$0.09)\cr
+    \hline
+    8 & (225$\pm$4) & (1.12$\pm$0.04) & (1.25$\pm$0.09) \cr
+    \hline
+    \end{tabular}
+    \end{center}
+A tabela é representada por um gráfico $m/T^2$.\\
+Utilizamos $T^2$ para plotar um gráfico linear e utilizamos o método de triangulação.
+
+\newpage    
+\subsection{Mola Grande}
+Da equação (1) obtemos que a constante elástica da mola pequena é de $k=3158.27 N/m$.
+    \begin{center}
+    \begin{tabular}{|c|c|c|c|}
+    \hline
+    n & Massa - m(g) & Período - T(s) & Período ao quadrado - $T^2(s^2)$ \cr
+    \hline
+    1 & (50$\pm$1)  & (0.82$\pm$0.04) & (0.67$\pm$0.07)  \cr
+    \hline
+    2 & (75$\pm$3)  & (0.94$\pm$0.04) & (0.88$\pm$0.08) \cr
+    \hline
+    3 & (100$\pm$2) & (1.08$\pm$0.04) & (1.17$\pm$0.09)\cr
+    \hline
+    4 & (125$\pm$4) & (1.30$\pm$0.04) & (1.70$\pm$0.10) \cr
+    \hline
+    5 & (150$\pm$2) & (1.36$\pm$0.04) & (1.85$\pm$0.11)  \cr
+    \hline
+    6 & (175$\pm$4) & (1.42$\pm$0.04) & (2.02$\pm$0.11) \cr
+    \hline
+    7 & (200$\pm$3) & (1.54$\pm$0.04) & (2.37$\pm$0.12) \cr
+    \hline
+    8 & (225$\pm$4) & (1.60$\pm$0.04) & (2.56$\pm$0.13)\cr
+    \hline
+    \end{tabular}
+    \end{center}
+A tabela é representada por um gráfico $m/T^2$.\\
+Utilizamos $T^2$ para plotar um gráfico linear e utilizamos o método de triangulação.
+
+\newpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Conclusão}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Pudemos observar que os resultados não foram tão satisfatórios pois o modelo teórico utilizado vale apenas para pequenas amplitudes, e devido
+as grandes massas houve amplitudes maiores que o esperado.\\
+O erros estão satifatórios, pois os pontos estão dentro da reta ideal nos gráficos feitos por método de triangulação.\\
+Em anexo, estão os gráficos plotados por uma ferramenta gráfica e estes se assemelham aos obtidos pelo método de triangulação.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Anexo}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Gráficos utilizando a ferramenta GNUPlot.\\
+\textbf{Mola Pequena} \\
+%\includegraphics[width=0.6\textwidth]{molapequena.jpeg}
+\\
+\textbf{Mola Grande} \\
+%\includegraphics[width=0.6\textwidth]{molagrande.jpeg}
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Bibliografia}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -1,0 +1,323 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.16)  16 FEB 2014 12:31
+entering extended mode
+ %&-line parsing enabled.
+**ass1.tex
+(./ass1.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (./ass1.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \times 
+l.53 ...024 ) $\times $ log10(energy)}{{5.2.3}{6}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+LaTeX Warning: Label `log10(E 3 Ã— Flux/1024 ) $\times $ log10(energy)' multipl
+y defined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \times 
+l.53 ...024 ) $\times $ log10(energy)}{{5.2.3}{6}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+)
+\openout1 = `ass1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+ (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\everyMPtoPDFconversion=\toks16
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 7.
+
+Underfull \hbox (badness 2486) in paragraph at lines 15--15
+\OT1/cmr/bx/n/14.4 Visualizing ma-tri-ces as 2-
+ []
+
+<fig1.pdf, id=1, 642.4pt x 481.8pt>
+File: fig1.pdf Graphic file (type pdf)
+ <use fig1.pdf>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 29.
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
+
+Underfull \hbox (badness 4353) in paragraph at lines 29--30
+[]\OT1/cmr/m/n/10 The file name and the tag (12, file =
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./fig1.pdf>]
+<fig2.png, id=18, 642.4pt x 481.8pt>
+File: fig2.png Graphic file (type png)
+ <use fig2.png>
+Underfull \hbox (badness 2277) in paragraph at lines 55--55
+\OT1/cmr/bx/n/14.4 Ultra-High En-ergy Cos-mic
+ []
+
+<fig3.png, id=19, 1204.5pt x 602.25pt>
+File: fig3.png Graphic file (type png)
+ <use fig3.png>
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 70.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 70.
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no — in font cmr10!
+
+<fig4.pdf, id=20, 1204.5pt x 602.25pt>
+File: fig4.pdf Graphic file (type pdf)
+ <use fig4.pdf>
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no — in font cmr10!
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2 <./fig2.png> <./fig3.png>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.91 reg.&Energy range(eV)&C&E_
+                               0&p \\\hline
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
+l.91 reg.&Energy range(eV)&C&E_0&
+                                 p \\\hline
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.91 reg.&Energy range(eV)&C&E_0&
+                                 p \\\hline
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.91 reg.&Energy range(eV)&C&E_0&
+                                 p \\\hline
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--96
+
+ []
+
+
+Overfull \hbox (6.83377pt too wide) in paragraph at lines 86--96
+[] 
+ []
+
+
+Underfull \vbox (badness 5637) has occurred while \output is active []
+
+ [3 <./fig4.pdf>] [4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 345--345
+[]\OT1/cmr/bx/n/10 program that gen-er-ate phys381-
+ []
+
+
+Overfull \hbox (1.49799pt too wide) in paragraph at lines 365--365
+[]  \OT1/cmtt/m/n/10 open(unit=13,file="phys381-UHECR-out.data"[] 
+ []
+
+Missing character: There is no Â in font cmtt10!
+Missing character: There is no º in font cmtt10!
+
+Overfull \hbox (185.24638pt too wide) in paragraph at lines 394--394
+[]\OT1/cmtt/m/n/10 plot 'phys381-UHECR-out.data' u log(2):1 w points notitle lc
+ rgb '#FF0000' pt 5[] 
+ []
+
+
+Overfull \hbox (158.99661pt too wide) in paragraph at lines 394--394
+[]\OT1/cmtt/m/n/10 plot 'phys381-UHECR-out.data' u 4:3 w points notitle lc rgb 
+'#0000FF' pt 9[] 
+ []
+
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no — in font cmtt10!
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no — in font cmtt10!
+
+Overfull \hbox (53.99753pt too wide) in paragraph at lines 394--394
+[]\OT1/cmtt/m/n/10 set title '   Log10(E 3  Flux/10^24 ) x Log10(energy)'[] 
+ []
+
+
+Overfull \hbox (158.99661pt too wide) in paragraph at lines 394--394
+[]\OT1/cmtt/m/n/10 plot 'phys381-UHECR-out.data' u 5:3 w points notitle lc rgb 
+'#000000' pt 7[] 
+ []
+
+
+Overfull \hbox (17.24785pt too wide) in paragraph at lines 394--394
+[]\OT1/cmtt/m/n/10 !convert "fig3.gif" "fig3.pdf" && rm "fig3.gif"[] 
+ []
+
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no — in font cmtt10!
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no — in font cmtt10!
+
+Overfull \hbox (53.99753pt too wide) in paragraph at lines 408--408
+[]\OT1/cmtt/m/n/10 set title '   Log10(E 3  Flux/10^24 ) x Log10(energy)'[] 
+ []
+
+
+Overfull \hbox (53.99753pt too wide) in paragraph at lines 408--408
+[]\OT1/cmtt/m/n/10 set arrow 1 from 0.46564350,17 to 0.46564350,17.655138[] 
+ []
+
+
+Overfull \hbox (90.74721pt too wide) in paragraph at lines 408--408
+[]\OT1/cmtt/m/n/10 set arrow 2 from  -0.0371222198,17 to -0.0371222198,19.94939
+0[] 
+ []
+
+
+Overfull \hbox (164.24657pt too wide) in paragraph at lines 408--408
+[]\OT1/cmtt/m/n/10 plot 'phys381-UHECR-out.data' u 5:3 w points notitle lc rgb 
+'#000000' pt 11[] 
+ []
+
+
+Overfull \hbox (17.24785pt too wide) in paragraph at lines 408--408
+[]\OT1/cmtt/m/n/10 !convert "fig4.gif" "fig4.pdf" && rm "fig4.gif"[] 
+ []
+
+[6] (./ass1.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \times 
+l.53 ...024 ) $\times $ log10(energy)}{{5.2.3}{6}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 967 strings out of 495061
+ 12102 string characters out of 1182621
+ 67803 words of memory out of 3000000
+ 4183 multiletter control sequences out of 15000+50000
+ 8409 words of font info for 30 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 25i,7n,19p,497b,238s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/
+texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type
+1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/ams
+fonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
+tt10.pfb>
+Output written on ass1.pdf (6 pages, 200155 bytes).
+PDF statistics:
+ 89 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+

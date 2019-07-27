@@ -1,0 +1,5 @@
+\documentclass{report}
+
+\usepackage{graphicx}
+\title{Lab#1 \\ Computational Physics I - Phys381}
+\author{Guilherme Contesini id:10140201}

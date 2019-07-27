@@ -1,0 +1,66 @@
+ 
+ Solution, for k=           0
+ 
+      NaN
+      NaN
+ 
+ 
+ Solution, for k=           1
+ 
+     1.00
+     1.00
+ 
+ 
+ Solution, for k=           2
+ 
+     1.00
+     1.00
+ 
+ 
+ Solution, for k=           3
+ 
+     1.00
+     1.00
+ 
+ 
+ Solution, for k=           4
+ 
+     1.00
+     1.00
+ 
+ 
+ Solution, for k=           5
+ 
+     1.00
+     1.00
+ 
+ 
+ Solution, for k=           6
+ 
+     1.00
+     1.00
+ 
+ 
+ Solution, for k=           7
+ 
+     1.00
+     1.00
+ 
+ 
+ Solution, for k=           8
+ 
+     2.00
+     1.00
+ 
+ 
+ Solution, for k=           9
+ 
+     0.00
+     1.00
+ 
+ 
+ Solution, for k=          10
+ 
+     0.00
+     1.00
+ 

@@ -1,0 +1,919 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.16)  7 APR 2014 15:07
+entering extended mode
+ %&-line parsing enabled.
+**Physics-381-Contesini-Magat.tex
+(./Physics-381-Contesini-Magat.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\lst@mode=\count87
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count88
+\lst@currlwidth=\dimen103
+\lst@column=\count89
+\lst@pos=\count90
+\lst@lostspace=\dimen104
+\lst@width=\dimen105
+\lst@newlines=\count91
+\lst@lineno=\count92
+\lst@maxwidth=\dimen106
+
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count93
+\lst@skipnumbers=\count94
+\lst@framebox=\box27
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count95
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+! Illegal parameter number in definition of \@title.
+<to be read again> 
+                   6
+l.6 ...e{Lab#6\\Computational Physics I - Phys381}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+(./Physics-381-Contesini-Magat.aux)
+\openout1 = `Physics-381-Contesini-Magat.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+\c@lstlisting=\count96
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count97
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen110
+\MPnumerator=\count101
+\everyMPtoPDFconversion=\toks17
+)
+! You can't use `macro parameter character #' in horizontal mode.
+\@title ->Lab##
+               6\\Computational Physics I - Phys381
+l.12 \maketitle
+               
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 12.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Reference `' on page 2 undefined on input line 27.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \begin
+           {bmatrix}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment bmatrix undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \begin{bmatrix}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced alignment tab character &.
+l.32 1.00 &
+            0.50 & 0.33 & 0.25 & 0.20\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.32 1.00 & 0.50 &
+                   0.33 & 0.25 & 0.20\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.32 1.00 & 0.50 & 0.33 &
+                          0.25 & 0.20\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.32 1.00 & 0.50 & 0.33 & 0.25 &
+                                 0.20\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.33 0.50 &
+            0.33 & 0.25 & 0.20 & 0.17\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.33 0.50 & 0.33 &
+                   0.25 & 0.20 & 0.17\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.33 0.50 & 0.33 & 0.25 &
+                          0.20 & 0.17\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.33 0.50 & 0.33 & 0.25 & 0.20 &
+                                 0.17\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.34 0.33 &
+            0.25 & 0.20 & 0.17 & 0.14\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.34 0.33 & 0.25 &
+                   0.20 & 0.17 & 0.14\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.34 0.33 & 0.25 & 0.20 &
+                          0.17 & 0.14\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.34 0.33 & 0.25 & 0.20 & 0.17 &
+                                 0.14\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.35 0.25 &
+            0.20 & 0.17 & 0.14 & 0.13\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.35 0.25 & 0.20 &
+                   0.17 & 0.14 & 0.13\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.35 0.25 & 0.20 & 0.17 &
+                          0.14 & 0.13\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.35 0.25 & 0.20 & 0.17 & 0.14 &
+                                 0.13\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.36 0.20 &
+            0.17 & 0.14 & 0.13 & 0.11\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.36 0.20 & 0.17 &
+                   0.14 & 0.13 & 0.11\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.36 0.20 & 0.17 & 0.14 &
+                          0.13 & 0.11\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.36 0.20 & 0.17 & 0.14 & 0.13 &
+                                 0.11\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \caption
+             {(Matrix A)}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{bmatrix}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \end{bmatrix}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment bmatrix undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \begin{bmatrix}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced alignment tab character &.
+l.41 25.00 &
+              -300.00 & 1050.00 & -1400.00 & 630.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.41 25.00 &  -300.00 &
+                        1050.00 & -1400.00 & 630.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.41 25.00 &  -300.00 & 1050.00 &
+                                  -1400.00 & 630.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.41 25.00 &  -300.00 & 1050.00 & -1400.00 &
+                                             630.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.42 -300.00 &
+               4800.00 & -18900.00 & 26880.00 & -12600.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.42 -300.00 & 4800.00 &
+                         -18900.00 & 26880.00 & -12600.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.42 -300.00 & 4800.00 & -18900.00 &
+                                     26880.00 & -12600.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.42 -300.00 & 4800.00 & -18900.00 & 26880.00 &
+                                                -12600.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.43 1050.00 &
+               -18900.00 & 79380.00 & -117600.00 & 56700.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.43 1050.00 & -18900.00 &
+                           79380.00 & -117600.00 & 56700.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.43 1050.00 & -18900.00 & 79380.00 &
+                                      -117600.00 & 56700.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.43 1050.00 & -18900.00 & 79380.00 & -117600.00 &
+                                                   56700.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.44 -1400.00 &
+                26880.00 & -117600.00 & 179200.00 & -88200.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.44 -1400.00 & 26880.00 &
+                           -117600.00 & 179200.00 & -88200.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.44 -1400.00 & 26880.00 & -117600.00 &
+                                        179200.00 & -88200.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.44 ...0.00 & 26880.00 & -117600.00 & 179200.00 &
+                                                   -88200.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.45 630.00 &
+              -12600.00 & 56700.00 & -88200.00 & 44100.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.45 630.00 & -12600.00 &
+                          56700.00 & -88200.00 & 44100.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.45 630.00 & -12600.00 & 56700.00 &
+                                     -88200.00 & 44100.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.45 630.00 & -12600.00 & 56700.00 & -88200.00 &
+                                                 44100.00\\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 \caption
+             {(Inverse Matrix A)}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{(bmatrix)}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \end{(bmatrix)}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (127.49689pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , dimension(5,5) :: L_mtx , U_mtx , a_mtx
+ , b_vec[] 
+ []
+
+
+Overfull \hbox (185.24638pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , dimension(5,5) :: aux_vec, sol_vec , in
+v_a_mtx , inv_a_vec[] 
+ []
+
+
+Overfull \hbox (442.49414pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision :: norm_1_dp , norm_inf_dp , norm_2_dp , 
+norm_inv_1_dp ,norm_inv_inf_dp , norm_inv_2_dp , k_a_1_dp , k_inf_dp[] 
+ []
+
+
+Overfull \hbox (1.49799pt too wide) in paragraph at lines 264--264
+[]    \OT1/cmtt/m/n/10 a_mtx(i_int,j_int) = 1./(i_int+j_int-1.)[] 
+ []
+
+
+Overfull \hbox (22.4978pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 call LUdecompCrout(a_mtx,L_mtx,U_mtx,size_int)[] 
+ []
+
+
+Overfull \hbox (17.24785pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 call ProgresSub(L_mtx,b_vec,aux_vec,size_int)[] 
+ []
+
+
+Overfull \hbox (22.4978pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 call RegresSub(U_mtx,aux_vec,sol_vec,size_int)[] 
+ []
+
+
+Overfull \hbox (6.74794pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 norm_inf_dp = MAXVAL(SUM(ABS(a_mtx),DIM=2))[] 
+ []
+
+
+Overfull \hbox (38.24767pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 norm_inv_1_dp = MAXVAL(SUM(ABS(inv_a_mtx),DIM=1))[] 
+ []
+
+
+Overfull \hbox (48.74757pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 norm_inv_inf_dp = MAXVAL(SUM(ABS(inv_a_mtx),DIM=2))[] 
+ []
+
+[2
+
+]
+Overfull \hbox (148.4967pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , intent(out) , dimension(size_int,size_i
+nt) :: a_mtx[] 
+ []
+
+
+Overfull \hbox (43.49762pt too wide) in paragraph at lines 264--264
+[]\OT1/cmtt/m/n/10 subroutine LUdecompCrout(a_mtx,L_mtx,U_mtx,size_int)[] 
+ []
+
+
+Overfull \hbox (143.24675pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , intent(in) , dimension(size_int,size_in
+t) :: a_mtx[] 
+ []
+
+
+Overfull \hbox (190.49634pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , intent(out) , dimension(size_int,size_i
+nt) :: L_mtx , U_mtx[] 
+ []
+
+
+Overfull \hbox (11.9979pt too wide) in paragraph at lines 264--264
+[]    \OT1/cmtt/m/n/10 U_mtx(1,j_int) = a_mtx(1,j_int)/L_mtx(1,1)[] 
+ []
+
+
+Overfull \hbox (132.74684pt too wide) in paragraph at lines 264--264
+[]        \OT1/cmtt/m/n/10 sum_float = sum_float + L_mtx(i_int,k_int)*U_mtx(k_i
+nt,j_int)[] 
+ []
+
+
+Overfull \hbox (69.74739pt too wide) in paragraph at lines 264--264
+[]      \OT1/cmtt/m/n/10 L_mtx(i_int,j_int) = a_mtx(i_int,j_int) - sum_float[] 
+
+ []
+
+
+Overfull \hbox (132.74684pt too wide) in paragraph at lines 264--264
+[]        \OT1/cmtt/m/n/10 sum_float = sum_float + L_mtx(i_int,k_int)*U_mtx(k_i
+nt,j_int)[] 
+ []
+
+
+Overfull \hbox (169.49652pt too wide) in paragraph at lines 264--264
+[]      \OT1/cmtt/m/n/10 U_mtx(i_int,j_int) = (a_mtx(i_int,j_int)-sum_float)/L_
+mtx(i_int,i_int)[] 
+ []
+
+
+Overfull \hbox (38.24767pt too wide) in paragraph at lines 264--264
+[]\OT1/cmtt/m/n/10 subroutine ProgresSub(a_mtx,b_vec,aux_vec,size_int)[] 
+ []
+
+
+Overfull \hbox (143.24675pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , intent(in) , dimension(size_int,size_in
+t) :: a_mtx[] 
+ []
+
+
+Overfull \hbox (106.49707pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , intent(in) , dimension(size_int,1) :: b
+_vec[] 
+ []
+
+
+Overfull \hbox (122.24693pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , intent(out) , dimension(size_int,1) :: 
+aux_vec[] 
+ []
+
+
+Overfull \hbox (122.24693pt too wide) in paragraph at lines 264--264
+[]      \OT1/cmtt/m/n/10 sum_float = sum_float + (a_mtx(i_int,j_int)*aux_vec(j_
+int,1))[] 
+ []
+
+
+Overfull \hbox (127.49689pt too wide) in paragraph at lines 264--264
+[]    \OT1/cmtt/m/n/10 aux_vec(i_int,1) = (b_vec(i_int,1)-sum_float)/a_mtx(i_in
+t,i_int)[] 
+ []
+
+
+Overfull \hbox (32.99771pt too wide) in paragraph at lines 264--264
+[]\OT1/cmtt/m/n/10 subroutine RegresSub(a_mtx,b_vec,sol_vec,size_int)[] 
+ []
+
+
+Overfull \hbox (143.24675pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , intent(in) , dimension(size_int,size_in
+t) :: a_mtx[] 
+ []
+
+
+Overfull \hbox (106.49707pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , intent(in) , dimension(size_int,1) :: b
+_vec[] 
+ []
+
+
+Overfull \hbox (122.24693pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , intent(out) , dimension(size_int,1) :: 
+sol_vec[] 
+ []
+
+
+Overfull \hbox (116.99698pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 sol_vec(size_int,1) = b_vec(size_int,1)/a_mtx(size_int,siz
+e_int)[] 
+ []
+
+
+Overfull \hbox (116.99698pt too wide) in paragraph at lines 264--264
+[]      \OT1/cmtt/m/n/10 sum_float = sum_float + a_mtx(i_int,j_int )*sol_vec(j_
+int,1)[] 
+ []
+
+
+Overfull \hbox (148.4967pt too wide) in paragraph at lines 264--264
+[]    \OT1/cmtt/m/n/10 sol_vec(i_int,1) = ( b_vec(i_int,1) - sum_float )/a_mtx(
+i_int,i_int)[] 
+ []
+
+
+Overfull \hbox (1.49799pt too wide) in paragraph at lines 264--264
+[]\OT1/cmtt/m/n/10 subroutine inverse(inv_a_mtx,a_mtx,size_int)[] 
+ []
+
+
+Overfull \hbox (137.9968pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision, intent(in) , dimension(size_int,size_int
+) :: a_mtx[] 
+ []
+
+
+Overfull \hbox (174.74648pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , intent(out) , dimension(size_int, size_
+int) :: inv_a_mtx[] 
+ []
+
+
+Overfull \hbox (190.49634pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , dimension(size_int,size_int) :: L_mtx ,
+U_mtx, i_mtx , i_vec[] 
+ []
+
+
+Overfull \hbox (137.9968pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , dimension(size_int,size_int) :: aux_vec
+ , sol_vec[] 
+ []
+
+[3]
+Overfull \hbox (32.99771pt too wide) in paragraph at lines 264--264
+[]    \OT1/cmtt/m/n/10 call LUdecompCrout(a_mtx,L_mtx,U_mtx,size_int)[] 
+ []
+
+
+Overfull \hbox (27.74776pt too wide) in paragraph at lines 264--264
+[]    \OT1/cmtt/m/n/10 call ProgresSub(L_mtx,i_vec,aux_vec,size_int)[] 
+ []
+
+
+Overfull \hbox (32.99771pt too wide) in paragraph at lines 264--264
+[]    \OT1/cmtt/m/n/10 call RegresSub(U_mtx,aux_vec,sol_vec,size_int)[] 
+ []
+
+
+Overfull \hbox (17.24785pt too wide) in paragraph at lines 264--264
+[]      \OT1/cmtt/m/n/10 inv_a_mtx(j_int,i_int) = sol_vec(j_int,1)[] 
+ []
+
+
+Overfull \hbox (148.4967pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , intent(out) , dimension(size_int,size_i
+nt) :: i_mtx[] 
+ []
+
+
+Overfull \hbox (143.24675pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , intent(in) , dimension(size_int,size_in
+t) :: s_mtx[] 
+ []
+
+
+Overfull \hbox (80.2473pt too wide) in paragraph at lines 264--264
+[]        \OT1/cmtt/m/n/10 write(*,"(f10.2)",advance="yes") s_mtx(i_int,j_int)[
+] 
+ []
+
+
+Overfull \hbox (74.99734pt too wide) in paragraph at lines 264--264
+[]        \OT1/cmtt/m/n/10 write(*,"(f10.2)",advance="no") s_mtx(i_int,j_int)[]
+ 
+ []
+
+
+Overfull \hbox (143.24675pt too wide) in paragraph at lines 264--264
+[]  \OT1/cmtt/m/n/10 double precision , intent(in) , dimension(size_int,size_in
+t) :: s_vec[] 
+ []
+
+[4] (./Physics-381-Contesini-Magat.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2103 strings out of 495061
+ 28967 string characters out of 1182621
+ 89003 words of memory out of 3000000
+ 5314 multiletter control sequences out of 15000+50000
+ 8670 words of font info for 31 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 26i,6n,32p,204b,236s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public
+/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
+/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+
+Output written on Physics-381-Contesini-Magat.pdf (4 pages, 101550 bytes).
+PDF statistics:
+ 43 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
