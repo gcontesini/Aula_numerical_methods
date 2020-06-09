@@ -1,0 +1,25 @@
+#include"stdio.h"
+#include"math.h"
+main()
+{
+	double k,vx,vy,v,x,y,t,dt,o,ang,pi,g;
+	g=9.8;
+	pi=4*atan(1.);
+	k=1;
+	ang=45;
+	v=10.;
+	o=(pi*ang/180);
+	vx=v*cos(o);
+	vy=v*sin(o);
+	y=x=0.;
+	t=0.;
+	dt=1e-3;
+	do{
+		vx=vx-k*vx*dt;
+		x=x+vx*dt;
+		vy=vy-(g+k*vy)*dt;
+		y=y+vy*dt;
+		t+=dt;
+		printf("%lf\t%lf\t%lf\n",t,x,y,vx,vy);
+	}while(y>=0);
+}
